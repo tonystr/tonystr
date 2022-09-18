@@ -1,4 +1,5 @@
-# Hello
+# [Tony Strømsnæs](https://tonystr.net/)
+## Fullstack webdeveloper
 
 ### Languages
 
@@ -6,13 +7,16 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin&logoColor=7F52FF)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![rust](https://img.shields.io/badge/-Rust-000?&logo=Rust&logoColor=00599C)
+![rust](https://img.shields.io/badge/-Rust-000?&logo=Rust&logoColor=f46623)
 
 ### Technologies
 
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Sass](https://img.shields.io/badge/-sass?&logo=sass)
+![Google cloud](https://img.shields.io/badge/-googlecloud-000?&logo=googlecloud&logoColor=4285F4)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)

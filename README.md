@@ -15,6 +15,7 @@ Fullstack webdeveloper
 
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Git](https://img.shields.io/badge/-git-000?&logo=git)
 ![Sass](https://img.shields.io/badge/-sass-000?&logo=sass)
 ![Google cloud](https://img.shields.io/badge/-googlecloud-000?&logo=googlecloud&logoColor=4285F4)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)

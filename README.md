@@ -1,5 +1,5 @@
 # [Tony Strømsnæs](https://tonystr.net/)
-Fullstack webdeveloper
+Fullstack webdeveloper located in Norway
 
 ### Languages
 

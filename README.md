@@ -15,7 +15,7 @@
 
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Sass](https://img.shields.io/badge/-sass?&logo=sass)
+![Sass](https://img.shields.io/badge/-sass-000?&logo=sass)
 ![Google cloud](https://img.shields.io/badge/-googlecloud-000?&logo=googlecloud&logoColor=4285F4)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)

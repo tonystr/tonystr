@@ -22,5 +22,7 @@ Fullstack webdeveloper located in Norway
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![Spring](https://img.shields.io/badge/-Vim-000?&logo=Vim)
+
 
 <a href="https://tonystr.net"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=tonystr&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&icon_color=ebdb13&bg_color=010101,103cad,161b22,161b22,a8004f&theme=radical" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonystr&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=fff&icon_color=fff&bg_color=010101,a8004f,161b22,161b22,2aa769&theme=radical" /></a>
